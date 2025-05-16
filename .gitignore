@@ -1,0 +1,7 @@
+# Ignora configurações de IDEs
+.metadata/
+*.class
+bin/
+target/
+*.iml
+.idea/
