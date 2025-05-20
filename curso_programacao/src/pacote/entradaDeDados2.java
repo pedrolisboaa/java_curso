@@ -21,7 +21,7 @@ public class entradaDeDados2 {
 		s3 = sc.nextLine();
 		
 		System.out.println("Dados digitados: ");
-		System.out.print(x);;
+		System.out.println(x);;
 		System.out.println(s1);
 		System.out.println(s2);
 		System.out.println(s3);
